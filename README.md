@@ -100,8 +100,16 @@ This project helped me practice webpage structure, responsive design, styling, a
 
 <div align="center">
 
-<a href="https://github.com/laibafatima-05">
+<a href="https://github.com/laibafatima-05" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lyba-fatima" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lybafatima.005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -114,19 +122,4 @@ This project helped me practice webpage structure, responsive design, styling, a
 
 **Keep Learning • Keep Coding • Keep Growing 🚀**
 
-</div>## Hi there 👋
-
-<!--
-**laibafatima-05/laibafatima-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
